@@ -1,0 +1,86 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		DE05880D1A1F011100538443 /* Euler1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Euler1.swift; sourceTree = "<group>"; };
+		DE765C311A1F225C00F5D6B5 /* Euler2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Euler2.swift; sourceTree = "<group>"; };
+		DE765C321A1F263D00F5D6B5 /* Euler3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Euler3.swift; sourceTree = "<group>"; };
+		DEA301421A1F929200B7BD6E /* Euler4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Euler4.swift; sourceTree = "<group>"; };
+		DEA301431A1F9AFC00B7BD6E /* Euler5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Euler5.swift; sourceTree = "<group>"; };
+		DEC6F9FB1A22E22B0001E926 /* Euler6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Euler6.swift; sourceTree = "<group>"; };
+		DEC6F9FC1A22E42E0001E926 /* Euler7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Euler7.swift; sourceTree = "<group>"; };
+		DEF1A5E41A23A9EA0011C629 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		DE0588061A1F00E300538443 = {
+			isa = PBXGroup;
+			children = (
+				DE05880D1A1F011100538443 /* Euler1.swift */,
+				DE765C311A1F225C00F5D6B5 /* Euler2.swift */,
+				DE765C321A1F263D00F5D6B5 /* Euler3.swift */,
+				DEA301421A1F929200B7BD6E /* Euler4.swift */,
+				DEA301431A1F9AFC00B7BD6E /* Euler5.swift */,
+				DEC6F9FB1A22E22B0001E926 /* Euler6.swift */,
+				DEC6F9FC1A22E42E0001E926 /* Euler7.swift */,
+				DEF1A5E41A23A9EA0011C629 /* main.swift */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		DE0588071A1F00E300538443 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0600;
+			};
+			buildConfigurationList = DE05880A1A1F00E300538443 /* Build configuration list for PBXProject "Euler1" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = DE0588061A1F00E300538443;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		DE05880B1A1F00E300538443 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		DE05880C1A1F00E300538443 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DE05880A1A1F00E300538443 /* Build configuration list for PBXProject "Euler1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DE05880B1A1F00E300538443 /* Debug */,
+				DE05880C1A1F00E300538443 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DE0588071A1F00E300538443 /* Project object */;
+}
